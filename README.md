@@ -17,3 +17,10 @@ We use Kinetics dataset.It is a large-scale, high-quality dataset for human acti
 ## Result
 
 ## Reference
+
+@inproceedings{stgcn2018aaai,
+  title     = {Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition},
+  author    = {Sijie Yan and Yuanjun Xiong and Dahua Lin},
+  booktitle = {AAAI},
+  year      = {2018},
+}
