@@ -10,7 +10,7 @@ Additionally, the skeleton graph will consider the joints across all body parts 
 
 ## Framework
 
-
+![Framework][Framework.jpg]
 
 We use Kinetics dataset.It is a large-scale, high-quality dataset for human action recognition in videos. The dataset consists of around 500,000 video clips covering 600 human action classes with at least 600 video clips for each action class. Each video clip lasts around 10 seconds and is labeled with a single action class. The videos are collected from YouTube. We use this 3D skeletons extracted by each frame in Kinetics by Openpose and run st-gcn.
 
